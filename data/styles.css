@@ -67,10 +67,15 @@
 .sticky_2 {
   text-align:left;
 }
+.sticky_3 {
+  text-align:left;
+}
 .sticky_4 {
   text-align:left;
 }
 ._流程形状 {
+}
+._连接线 {
 }
 .box_1 {
 }
@@ -111,4 +116,13 @@
   color:#FFFFFF;
 }
 .box_3 {
+}
+.box_21 {
+}
+.text_field1 {
+  color:#000000;
+  text-align:left;
+}
+.html_button {
+  text-align:center;
 }
